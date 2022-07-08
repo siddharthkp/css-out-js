@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" height="80px"/>
+  <img src="https://raw.githubusercontent.com/siddharthkp/css-out-js/main/packages/css-out-js/logo.png" height="80px"/>
   <br><br>
   <b>Author collocated styles in JS, ship static CSS. No runtime dependency.</b>
   <br>
