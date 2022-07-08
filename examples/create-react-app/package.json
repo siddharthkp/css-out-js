@@ -1,0 +1,35 @@
+{
+  "name": "example-create-react-app",
+  "version": "0.0.0",
+  "private": true,
+  "cracoConfig": "custom.config.js",
+  "dependencies": {
+    "@craco/craco": "^6.4.3",
+    "css-out-js": "0.0.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
