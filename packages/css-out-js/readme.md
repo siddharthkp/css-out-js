@@ -124,6 +124,7 @@ const Home = (props) => {
 2. Add plugin to babelrc, you can specify the location of your generated css file (hint: see [examples](https://github.com/siddharthkp/css-out-js/blob/main/examples) directory)
 
    ```js
+   // .babelrc
    module.exports = {
      plugins: [['css-out-js/babel', { path: 'public/dist.css' }]]
    };
