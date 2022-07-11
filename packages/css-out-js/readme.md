@@ -13,9 +13,11 @@ I like to **author styles collocated with component code**, that's how I find th
 
 But before shipping them to users, I'd like to pull styles out of components and ship them in **static CSS files**. No runtime dependency.
 
-&nbsp;
+![animation showing code being pulled into dist.css](https://user-images.githubusercontent.com/1863771/178297537-edb1229b-7a4a-4ad3-99c4-f3aeac6622a5.gif)
 
 prior art: This idea is not entirely new, there have been other similar interpretations of this idea before like [callstack/linaria](https://github.com/callstack/linaria) and [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled)
+
+
 
 &nbsp;
 
