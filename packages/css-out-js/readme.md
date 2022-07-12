@@ -38,7 +38,7 @@ const Title = (props) => {
 The plugin extracts the styles into a css file<br>
 and replaces the function call with generated className string.<br>
 If there are any dynamic styles, it creates a css variable for them.<br>
-Finally, it removes the removes the import for `css-out-js`, no runtime.
+Finally, it removes the import for `css-out-js`, no runtime.
 
 `dist.css`
 
